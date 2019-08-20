@@ -20,5 +20,17 @@ Tag为版本号
 	}
 ```
 
+工具类简介
+
+类名  | 说明  
+ ---- | ----- 
+ ToastUtils  | 吐司相关 
+ LogUtils  | 日志输出
+SPUtils  | SharedPreferences数据存储 
+TimeUtils  | 时间相关
+ConstUtils  | 常量相关
+ConvertUtils  | 转换相关
+
+
 
 
